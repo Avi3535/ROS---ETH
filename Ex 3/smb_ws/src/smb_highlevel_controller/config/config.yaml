@@ -1,0 +1,6 @@
+scanner:
+ topic_name: /scan
+ queue_size: 1
+
+controller:
+ p: 1
